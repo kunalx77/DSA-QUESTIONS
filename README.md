@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
+| [0904-fruit-into-baskets](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 ## Linked List
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0904-fruit-into-baskets](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
