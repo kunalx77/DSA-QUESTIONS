@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
