@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
 |  |
 | ------- |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
