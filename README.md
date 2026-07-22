@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0141-linked-list-cycle) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
