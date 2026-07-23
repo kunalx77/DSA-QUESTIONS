@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/kunalx77/DSA-QUESTIONS/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
